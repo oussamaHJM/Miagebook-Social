@@ -39,5 +39,5 @@ Après le déploient du fichier vous pouvez allez directement au lien du déploi
 
 Après vous pouvez commencer à naviguer dans les différentes pages de l'application.
 
-##Note :
+## Note :
 - Si vous arriver pas à vous connecter avec le vpn et WEBTP, vous allez trouver un fichier de la BDD .SQL à importer en local.
